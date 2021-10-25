@@ -8,6 +8,8 @@ There is also the buildgraph file that can take a csv file with node coordinates
 
 The app.py code allows the lattices to be visualized and manipulated visually. To run this app, simply run the app.py folder and put your local ip address into chrome or another browser. There, you can set different lattice symmetries and manipulate them with various parameters and see the resulting data. 
 
+Some videos + the poster about the project can be found [here](https://drive.google.com/drive/folders/1fku842TywogshRGmHOFr1emOda0DOai2?usp=sharing)
+
 ## Example:
 If you wanted to generate a lattice of cubic symettry, visualize it, randomize it, refine it, then visualize it again with the corresponding data, your code would look like this:
 
